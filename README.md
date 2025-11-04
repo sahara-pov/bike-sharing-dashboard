@@ -66,7 +66,7 @@ bike_sharing_dashboard/ <br>
 
 ### 1. Clone repositori <br>
 ```bash
-git clone https://github.com/username/bike-sharing-dashboard.git
+git clone https://github.com/sahara-pov/bike-sharing-dashboard.git
 cd bike-sharing-dashboard
 ```
 ### 2. Install dependencies
