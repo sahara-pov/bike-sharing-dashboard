@@ -1,6 +1,8 @@
 # bike-sharing-dashboard
 Dashboard Analisis Bisnis Rental Sepeda CAPITAL BIKESHARE
 # 🚲 Bike Sharing Analysis & Dashboard – Capital Bikeshare
+![Capital Bikeshare](https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg)
+
 
 Proyek ini menganalisis data penyewaan sepeda dari sistem **Capital Bikeshare** (Washington D.C) dan membangun dashboard interaktif menggunakan **Streamlit** untuk melihat pola penggunaan sepeda berdasarkan waktu, musim, cuaca, dan tipe pengguna.
 
