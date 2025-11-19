@@ -54,6 +54,20 @@ Jupyter Notebook | Eksplorasi & EDA
 - Jam ramai: siang hingga sore, terutama weekday
 
 ---
+## 📂 Struktur Folder Submission
+submission
+├───dashboard
+| ├───main_data.csv
+| └───dashboard.py
+├───data
+| ├───data_1.csv
+| └───data_2.csv
+├───notebook.ipynb
+├───README.md
+└───requirements.txt
+└───url.txt
+
+---
 ## 📁 Struktur Project
 bike_sharing_dashboard/ <br>
 ├── dashboard_baru.py # file utama Streamlit<br>
