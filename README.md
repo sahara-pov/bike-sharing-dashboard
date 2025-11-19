@@ -55,17 +55,17 @@ Jupyter Notebook | Eksplorasi & EDA
 
 ---
 ## 📂 Struktur Folder Submission
-submission
-├───dashboard
-| ├───main_data.csv
-| └───dashboard.py
-├───data
-| ├───data_1.csv
-| └───data_2.csv
-├───notebook.ipynb
-├───README.md
-└───requirements.txt
-└───url.txt
+submission<br>
+├───dashboard<br>
+| ├───main_data.csv<br>
+| └───dashboard.py<br>
+├───data<br>
+| ├───data_1.csv<br>
+| └───data_2.csv<br>
+├───notebook.ipynb<br>
+├───README.md<br>
+└───requirements.txt<br>
+└───url.txt<br> 
 
 ---
 ## 📁 Struktur Project
